@@ -8,6 +8,9 @@ namespace Lab1._1._3
 {
     class Program
     {
+        //RV: Works fine, but pay attention to the task description. It was stated that every 
+        //RV: logic block (farmer, calculator, etc) has to have different text color. 
+        //RV: It can be achieved with the following code: Console.ForegroundColor = ConsoleColor.Yellow;
         static void Main(string[] args)
         {
             long a;
