@@ -123,6 +123,7 @@ namespace Hello_Operators_lect
             string resultUnary = "";
             string abConcat = "";
            
+            //RV: Conversion to unary can be extracted to a separate method which recives int as a parameter and return unary string.
             for (int i = 0; i < a; i++)
             {
                 aUnary = aUnary + "1";
