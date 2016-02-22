@@ -1,0 +1,7 @@
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_2_1–lab\CSharp_Net-module1_2_1–lab\bin\Debug\CSharp_Net-module1_2_1–lab.exe.config
+C:\Users\Artem\Downloads\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\bin\Debug\CSharp_Net-module1_2_1–lab.exe.config
+C:\Users\Artem\Downloads\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\bin\Debug\CSharp_Net-module1_2_1–lab.exe
+C:\Users\Artem\Downloads\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\bin\Debug\CSharp_Net-module1_2_1–lab.pdb
+C:\Users\Artem\Downloads\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\obj\Debug\CSharp_Net-module1_2_1-lab.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Downloads\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\obj\Debug\CSharp_Net-module1_2_1–lab.exe
+C:\Users\Artem\Downloads\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\CSharp_Net-module1_2_1-lab\obj\Debug\CSharp_Net-module1_2_1–lab.pdb
